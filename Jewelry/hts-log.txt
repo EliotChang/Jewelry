@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 10 Oct 2017 20:36:24 at http://www.angeluccijewelry.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.angeluccijewelry.com/ -O1 "C:\My Web Sites\Jewelry" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:38:19	Error: 	"Bad Request" (400) at link www.angeluccijewelry.com/'https://d3ciwvs59ifrt8.cloudfront.net/1d0f867a-0e9d-437b-82e5-5e9fde6477de/1e4f362d-2f07-486a-8e4d-e69b30514450_l.jpg' (from www.angeluccijewelry.com/)
+20:38:19	Error: 	"Bad Request" (400) at link www.angeluccijewelry.com/'https://d3ciwvs59ifrt8.cloudfront.net/1d0f867a-0e9d-437b-82e5-5e9fde6477de/18a865d3-bec3-4124-a941-50804703290a_l.jpg' (from www.angeluccijewelry.com/)
+20:38:19	Error: 	"Bad Request" (400) at link www.angeluccijewelry.com/'https://d3ciwvs59ifrt8.cloudfront.net/1d0f867a-0e9d-437b-82e5-5e9fde6477de/95dd13dc-f232-4713-9bea-ddfddcd5bfcc_l.jpg' (from www.angeluccijewelry.com/)
+20:38:19	Error: 	"Bad Request" (400) at link www.angeluccijewelry.com/'https://d3ciwvs59ifrt8.cloudfront.net/1d0f867a-0e9d-437b-82e5-5e9fde6477de/0b754ee2-a7e2-459b-bed4-dd7ece82acc1_l.jpg' (from www.angeluccijewelry.com/)
+20:38:29	Error: 	"Not Found" (404) at link https://d1qgs0cj2a6pkw.cloudfront.net/moprosuite/v210/create/_static2/_css/_images/news/sprite-news.png (from www.angeluccijewelry.com/csslint.ashx?id=e0788fc8-fd73-407a-9f7b-e5f8c4d0b9fc&bust=20170815095829450)
+20:38:29	Error: 	"Not Found" (404) at link https://d1qgs0cj2a6pkw.cloudfront.net/moprosuite/v210/create/_static2/_css/_images/events/tooltip-btmArr.png (from www.angeluccijewelry.com/csslint.ashx?id=e0788fc8-fd73-407a-9f7b-e5f8c4d0b9fc&bust=20170815095829450)
+20:38:29	Error: 	"Not Found" (404) at link https://d1qgs0cj2a6pkw.cloudfront.net/moprosuite/v210/create/_static2/_css/_images/events/tooltip-topArr.png (from www.angeluccijewelry.com/csslint.ashx?id=e0788fc8-fd73-407a-9f7b-e5f8c4d0b9fc&bust=20170815095829450)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 27 seconds : 123 links scanned, 115 files written (18577268 bytes overall) [12853166 bytes received at 87436 bytes/sec], 8440187 bytes transferred using HTTP compression in 100 files, ratio 30%, 5.5 requests per connection
+(7 errors, 0 warnings, 0 messages)

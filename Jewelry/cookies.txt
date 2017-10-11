@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.angeluccijewelry.com	TRUE	/	FALSE	1999999999	b1648556-2d8a-4c46-9465-9dadc6400617_lang	en
+
